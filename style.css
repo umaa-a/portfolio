@@ -70,7 +70,7 @@ span{
 .images img{
 height: 60%;
 position: absolute;
-left: 70%;
+left: 75%;
 bottom: 15%;
 transform: translateX(-50%);
 transition: bottom 1s, left 1s;
